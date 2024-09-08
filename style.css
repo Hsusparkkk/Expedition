@@ -22,7 +22,7 @@ body{
     width:100%;
     height: 180%;
     background-color: rgb(41, 41, 50);
-    overflow: hidden;
+/*     overflow: hidden; */
 }
 
 /* navBar */
